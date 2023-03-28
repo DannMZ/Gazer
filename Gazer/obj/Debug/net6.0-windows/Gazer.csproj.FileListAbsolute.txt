@@ -1,0 +1,17 @@
+F:\Lab\labs\Gazer\Gazer\bin\Debug\net6.0-windows\Gazer.exe
+F:\Lab\labs\Gazer\Gazer\bin\Debug\net6.0-windows\Gazer.deps.json
+F:\Lab\labs\Gazer\Gazer\bin\Debug\net6.0-windows\Gazer.runtimeconfig.json
+F:\Lab\labs\Gazer\Gazer\bin\Debug\net6.0-windows\Gazer.dll
+F:\Lab\labs\Gazer\Gazer\bin\Debug\net6.0-windows\Gazer.pdb
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.csproj.AssemblyReference.cache
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.Form1.resources
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.csproj.GenerateResource.cache
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.AssemblyInfoInputs.cache
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.AssemblyInfo.cs
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.dll
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\refint\Gazer.dll
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.pdb
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\Gazer.genruntimeconfig.cache
+F:\Lab\labs\Gazer\Gazer\obj\Debug\net6.0-windows\ref\Gazer.dll
